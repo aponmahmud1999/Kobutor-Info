@@ -46,16 +46,9 @@ const Blog = () => {
             Inline vs Inline-block vs block
           </h1>
           <p>
-             The element doesn’t start
-            on a new line and only occupy just the width it requires. You can’t
-            set the width or height. Compared to display: inline, the major
-            difference is that display: inline-block allows to set a width and
-            height on the element.
-            inline-block It’s formatted just
-            like the inline element, where it doesn’t start on a new line. A
-            block element is an HTML element
-            that begins a new line on a web page and extends the full width of
-            the available horizontal space of its parent element
+          What is difference between inline and inline-block and block?
+Image result for inline vs inline-block vs block
+An inline element has no line break before or after it, and it tolerates HTML elements next to it. A block element has some whitespace above and below it and does not tolerate any HTML elements next to it.
           </p>
         </div>
       </div>
