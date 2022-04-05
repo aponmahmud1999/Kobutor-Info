@@ -46,14 +46,14 @@ const Blog = () => {
             Inline vs Inline-block vs block
           </h1>
           <p>
-            <span className="font-bold">Inline</span> The element doesn’t start
+             The element doesn’t start
             on a new line and only occupy just the width it requires. You can’t
             set the width or height. Compared to display: inline, the major
             difference is that display: inline-block allows to set a width and
-            height on the element.{" "}
-            <span className="font-bold">inline-block</span> It’s formatted just
-            like the inline element, where it doesn’t start on a new line. A{" "}
-            <span className="font-bold">block </span> element is an HTML element
+            height on the element.
+            inline-block It’s formatted just
+            like the inline element, where it doesn’t start on a new line. A
+            block element is an HTML element
             that begins a new line on a web page and extends the full width of
             the available horizontal space of its parent element
           </p>
