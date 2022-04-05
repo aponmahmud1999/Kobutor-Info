@@ -1,0 +1,44 @@
+[
+    {
+        "id":1,
+        "name": "Faporbaz",
+        "img": "photos/pic1.jpg",
+        "title": "Wow that’s like a mix of peacock and pigeon! Beautiful",
+        "rating": "4.2"
+    },
+    {
+        "id":2,
+        "name": "Mr. Sada",
+        "img": "photos/pic2.jpg",
+        "title": "it's like a mini peacock XD",
+        "rating": "5"
+    },
+    {
+        "id":3,
+        "name": "keltu",
+        "img": "photos/pic3.jpg",
+        "title": "Kinda looks like pencil sharpener shavings.",
+        "rating": "4.9"
+    },
+    {
+        "id":4,
+        "name": "fockrule",
+        "img": "photos/pic4.jpg",
+        "title": "The ultimate in understated elegance.",
+        "rating": "4.8"
+    },
+    {
+        "id":5,
+        "name": "kane",
+        "img": "photos/pic5.jpg",
+        "title": "I never knew until recently that there were several kinds of crowned pigeons. I've only been familiar with the Victorian ones. These are gorgeous as well.",
+        "rating": "3.3"
+    },
+    {
+        "id":6,
+        "name": "Gems",
+        "img": "photos/pic6.jpg",
+        "title": "I looked at this pigeon and i seriously thought it was wearing a coat with a high collar",
+        "rating": "4"
+    }
+]
